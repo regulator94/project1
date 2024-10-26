@@ -1,4 +1,4 @@
-# Project Name
+## Project Name
 
 A brief description of what the project does.
 
@@ -32,4 +32,4 @@ To get started, ensure you have the following dependencies:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Contact
-Feel free to reach out for any questions or issues through the GitHub issues page or via email at nmosher94@hotmail.com
+Feel free to reach out for any questions or issues through the GitHub issues page or via email.
